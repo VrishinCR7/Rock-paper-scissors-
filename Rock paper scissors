@@ -8,12 +8,6 @@
 
 
 
-void printTitle(char a[]);
-
-void stringToCaps(char a[]);
-
-
-
 int main(){
 
     int userHand, computerHand;
